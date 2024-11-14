@@ -21,7 +21,7 @@ Python, R, MATLAB, JavaScript, SQL
 
 ### Libraries & Frameworks
 - **Data Analysis & Machine Learning**: TensorFlow, Keras, PyTorch
-- **GIS and Remote Sensing**: Google Earth Engine, ArcGIS, QGIS, ENVI
+- **GIS and Remote Sensing**: Google Earth Engine, ArcGIS, QGIS, ENVI, PhotoModeler, Agisoft Metashape, CloudCompare
 - **Web Development**: HTML5, CSS3, WebGIS
 
 ### Tools & Technologies
