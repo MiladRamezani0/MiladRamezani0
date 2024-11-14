@@ -50,6 +50,27 @@ I enjoy working on challenging tasks that allow me to explore new concepts. Here
 Feel free to explore my repositories for more projects!
 
 ## Languages and Tools
-![Languages and Tools](https://camo.githubusercontent.com/808e3afc13381add07b2dece80861d7197550f279ee7bb96ecd29d11d0d1fb1a/68747470733a2f2f6769746875622d726561646d652d73746174732d7369676d612d666976652e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6361726c7333312673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374)
 
-![Additional Tools](https://camo.githubusercontent.com/70e6a8511bc2e7b0c3cdcd2c683b692b4f878ad7eed537bdc2a99b6dd118e38b/68747470733a2f2f6769746875622d726561646d652d73746174732d7369676d612d666976652e76657263656c2e6170702f6170693f757365726e616d653d6361726c7333312673686f775f69636f6e733d74727565266c6f63616c653d656e)
+### Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### GIS & Remote Sensing
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-34A853?style=for-the-badge&logo=google-earth&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-3A8B3F?style=for-the-badge&logo=qgis&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-007A87?style=for-the-badge&logo=esri&logoColor=white)
+![ENVI](https://img.shields.io/badge/ENVI-007A87?style=for-the-badge&logo=hexagon&logoColor=white)
+
+### Database & Server Technologies
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-4188C1?style=for-the-badge&logo=postgis&logoColor=white)
+![Geoserver](https://img.shields.io/badge/Geoserver-48A484?style=for-the-badge&logo=geoserver&logoColor=white)
+
+### Additional Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-D70000?style=for-the-badge&logo=autodesk&logoColor=white)
