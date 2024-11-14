@@ -28,7 +28,7 @@ Python, R, MATLAB, JavaScript, SQL
 - GIS Software: ArcGIS, QGIS, Google Earth Engine
 - Databases: PostgreSQL, PostGIS, Geoserver, pgAdmin
 - Version Control: Git & GitHub
-- Other Tools: Linux, Docker, AutoCAD
+- Other Tools: AutoCAD
 
 ### Problem Solving
 Analytical Thinking, Spatial Data Analysis, Remote Sensing Techniques, Collaborative Solutions, Continuous Learning
