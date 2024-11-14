@@ -70,7 +70,5 @@ Feel free to explore my repositories for more projects!
 ![Geoserver](https://img.shields.io/badge/Geoserver-48A484?style=for-the-badge&logo=geoserver&logoColor=white)
 
 ### Additional Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-D70000?style=for-the-badge&logo=autodesk&logoColor=white)
